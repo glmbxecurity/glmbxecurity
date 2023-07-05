@@ -1,4 +1,10 @@
-## Eddy Galamba{center}
+
+
+<p align="center" width="300">
+  <h2>Eddy Galamba</h2>
+   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/137443771?s=400&u=dd7bc107974655b5324f729fa190bdf22a527ab2&v=4" />
+   
+</p>
 
 <!--
 **glmbxecurity/glmbxecurity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
