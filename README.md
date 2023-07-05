@@ -1,7 +1,7 @@
 
 
 <p align="center" width="300">
-  <h2>Eddy Galamba</h2>
+  <p class="face"><h2>Eddy Galamba</h2></p>
    <img align="center" width="200" src="https://avatars.githubusercontent.com/u/137443771?s=400&u=dd7bc107974655b5324f729fa190bdf22a527ab2&v=4" />
    
 </p>
@@ -21,3 +21,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+.face {
+display: block;
+margin: auto;
+border-radius: 100%;
+border: 5px solid #ff675b;}
