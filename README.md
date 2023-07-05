@@ -1,7 +1,7 @@
 
 
 <p align="center" width="300">
-  <p><h2>Eddy Galamba</h2></p>
+  <p align="center"><h2>Eddy Galamba</h2></p>
  <img align="center" width="200" src="https://glmbxecurity.github.io/assets/profile.png" />
 </p>
 
