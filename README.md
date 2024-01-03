@@ -2,7 +2,7 @@
 
 <p align="center" width="300">
   <p align="center"><h2>Eddy Galamba</h2></p>
- <img align="center" width="200" src="https://glmbxecurity.github.io/assets/profile.png" />
+ <img align="center" width="200" src="https://raw.githubusercontent.com/glmbxecurity/glmbxecurity.github.io/main/images/logo.png" />
 </p>
 
 #### 💼 Sysadmin y security area in Ejército de Tierra.
