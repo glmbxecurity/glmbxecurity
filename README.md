@@ -54,7 +54,7 @@ Desarrollo de herramientas propias para solucionar problemas de conectividad seg
 | **[Secure Wireguard Cipher](https://github.com/glmbxecurity/Wireguard-SS-Cipher)** | `Bash` `VPN` `Security` | Cifra configuraciones de cliente VPN para evitar exponerla en un descuido, ademas de permitir llevarla en un USB a cualquier parte de manera segura |
 | **[Secure Wireguard FULL Tunnel Gestion](https://github.com/glmbxecurity/glmbx-easy-wireguard)** | `Bash` `VPN` `Security` | Conjunto de scripts para crear y gestionar multiples túneles wireguard, clientes etc, sin necesidad de una GUI o web que pueda ser vulnerable |
 | **[Enterprise Lightweight Monitoring](https://github.com/glmbxecurity/Enterprise_Lightweight_Monitoring)** | `Python` `SysAdmin` `Ops` | Agente ligero de monitorización de sistemas para servidores Linux. Recolección de métricas de rendimiento y estado en tiempo real. |
-| **[SpotiBOT V3](https://github.com/glmbxecurity/SpotiBOT_V3)** | `Python` `Selenium` `Bot` | Bot de automatización de interacciones web complejas utilizando Selenium. Demostración de lógica de programación y manejo de APIs/DOM. |
+| **[SpotiBOT V3](https://github.com/glmbxecurity/SpotiBOT_V3)** | `Python` `Selenium` `Bot` | Bot de telegram con automatización de creacion de playlists en Spotify, gestion de las mismas, y generacion de informes en python. |
 
 ---
 
