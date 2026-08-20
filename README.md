@@ -1,46 +1,59 @@
 # Hola, soy Edward Herrera Galamba 👋
-### SysAdmin Senior & Cloud Security Engineer | DevSecOps Enthusiast
+### Senior SysAdmin & Offensive Security Specialist | eJPTv2 | CCN-STIC & Ethical Hacking
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/edward-herrera-galamba)
 [![eJPTv2](https://img.shields.io/badge/Certification-eJPTv2-red?style=for-the-badge&logo=hackthebox&color=BF1B2C)](https://security.ine.com/certifications/ejpt-certification/)
 [![CCNA](https://img.shields.io/badge/Certification-Cisco_CCNA-blue?style=for-the-badge&logo=cisco&color=00bceb)](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html)
+[![CCN-CERT Atenea](https://img.shields.io/badge/CCN--CERT-Top_15_Atenea_CTF-gold?style=for-the-badge&logo=shield)](https://atenea.ccn-cert.cni.es/)
 
 ---
 
 ### 🚀 Sobre mí
 
-Ingeniero de Infraestructura con más de **8 años de experiencia** en entornos de alta seguridad y misión crítica (**OTAN / Ejército de Tierra**). Mi perfil técnico se define por la convergencia entre la administración de sistemas robustos, la ingeniería de redes y la ciberseguridad aplicada.
+Especialista en gestión de infraestructuras de misión crítica con más de **8 años de trayectoria** en el sector Defensa (**OTAN / Ejército de Tierra**).
 
-Actualmente, estoy fusionando mi experiencia en operaciones militares con la **Nube y DevOps**, especializándome en el despliegue de arquitecturas seguras y escalables.
+Mi base técnica como **Senior SysAdmin** (administración avanzada de Linux, Windows Server & Active Directory, redes y bastionado bajo normativas **CCN-STIC / CIS Benchmarks**) potencia mi enfoque actual: **la Ciberseguridad Ofensiva y el Hacking Ético**. 
 
-> *"Mi enfoque es el **DevSecOps**: Infraestructura que nace segura, monitorizada y cumpliendo normativa (CCN-STIC) desde la primera línea de código."*
+Cuento con experiencia en liderazgo técnico internacional (**NATO Eslovaquia**) y gestión del ciclo de vida de vulnerabilidades. Aplico un entendimiento profundo de la arquitectura interna de sistemas para la auditoría técnica, reconocimiento, explotación controlada y escalada de privilegios.
+
+> *"Comprender en profundidad cómo se construye y se blinda una infraestructura militar es mi mayor ventaja para auditarla y detectar sus vectores de ataque."*
+
+---
+
+### 🏆 Reconocimientos & Formación Continua
+
+* **CCN-CERT / Jornadas Atenea (2024):** **Top 15** en el desafío CTF Atenea del CCN-CERT (retos de análisis forense, criptografía y explotación).
+* **HackTheBox & TryHackMe:** Práctica constante y resolución de laboratorios enfocados en técnicas de reconocimiento, evasión, explotación y escalada de privilegios en Linux y entornos Windows/Active Directory.
 
 ---
 
 ### 🛠️ Arsenal Tecnológico
 
-#### ☁️ Cloud & DevOps (Modernización)
-![AWS](https://img.shields.io/badge/AWS-Solutions_Architect-232F3E?style=flat-square&logo=amazon-aws)
-![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=flat-square&logo=terraform)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=flat-square&logo=kubernetes)
-![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker)
+#### 🎯 Ciberseguridad Ofensiva & Auditoría Metodológica
+* **Reconocimiento & Enumeración:** Mapeo de superficie de ataque, escaneo avanzado de red, fuzzing de endpoints/parámetros y enumeración profunda de servicios (SMB, RPC, DNS, LDAP, HTTP).
+* **Web Application Security:** Auditoría de aplicaciones web bajo marco **OWASP Top 10** (SQLi, XSS, SSRF, IDOR, fallos de autenticación), análisis e interceptación con proxies (Burp Suite) y auditoría de CMS.
+* **Explotación & Escalada de Privilegios:** Explotación de servicios desactualizados, abuso de configuraciones permisivas, privilegios débiles y tareas desatendidas en Linux y Windows/Active Directory.
+* **Gestión de Vulnerabilidades & Hardening:** Evaluación y priorización del ciclo de vida de vulnerabilidades (Tenable Nessus, Wazuh) y bastionado bajo directivas **CCN-STIC** y **CIS Benchmarks**.
 
-#### 🛡️ Ciberseguridad (Ofensiva & Defensiva)
-![Nessus](https://img.shields.io/badge/Tenable-Nessus-003D5B?style=flat-square&logo=tenable)
-![Wazuh](https://img.shields.io/badge/Wazuh-SIEM%2FXDR-blue?style=flat-square)
-![Metasploit](https://img.shields.io/badge/Metasploit-Pentesting-333333?style=flat-square&logo=metasploit)
-![Nmap](https://img.shields.io/badge/Nmap-Recon-blue?style=flat-square)
-
-#### 🌐 Infraestructura & Redes (Core)
-![Linux](https://img.shields.io/badge/Linux-Admin-FCC624?style=flat-square&logo=linux)
-![Windows Server](https://img.shields.io/badge/Windows-Server_&_AD-0078D6?style=flat-square&logo=windows)
-![VMware](https://img.shields.io/badge/VMware-Virtualization-607078?style=flat-square&logo=vmware)
+#### 🌐 Sistemas, Infraestructura & Hardening (Core)
+![Linux](https://img.shields.io/badge/Linux-Admin_&_Hardening-FCC624?style=flat-square&logo=linux)
+![Windows Server](https://img.shields.io/badge/Windows-Server_&_AD_GPOs-0078D6?style=flat-square&logo=windows)
+![VMware](https://img.shields.io/badge/VMware-vSphere-607078?style=flat-square&logo=vmware)
+![Proxmox](https://img.shields.io/badge/Proxmox-VE-E57000?style=flat-square&logo=proxmox)
+![Hyper-V](https://img.shields.io/badge/Hyper--V-Virtualization-0078D6?style=flat-square&logo=windows)
 ![pfSense](https://img.shields.io/badge/pfSense-Firewall-2C3E50?style=flat-square&logo=pfsense)
 ![WireGuard](https://img.shields.io/badge/WireGuard-VPN-88171A?style=flat-square&logo=wireguard)
 
-#### 💻 Scripting & Automatización
-![Python](https://img.shields.io/badge/Python-Scripting-3776AB?style=flat-square&logo=python)
-![Bash](https://img.shields.io/badge/Bash-Shell-4EAA25?style=flat-square&logo=gnu-bash)
+#### ⚙️ Automatización, IaC & Contenedores
+![Ansible](https://img.shields.io/badge/Ansible-Automation-EE0000?style=flat-square&logo=ansible)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=flat-square&logo=terraform)
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker)
+![LXC](https://img.shields.io/badge/LXC-Linux_Containers-black?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?style=flat-square&logo=amazon-aws)
+
+#### 💻 Scripting
+![Python](https://img.shields.io/badge/Python-Automation_&_Sec-3776AB?style=flat-square&logo=python)
+![Bash](https://img.shields.io/badge/Bash-Shell_Scripting-4EAA25?style=flat-square&logo=gnu-bash)
 
 ---
 
@@ -58,15 +71,6 @@ Desarrollo de herramientas propias para solucionar problemas de conectividad seg
 
 ---
 
-### 🚧 Laboratorio Cloud & DevSecOps (En Construcción)
-
-Actualmente migrando mi base de conocimiento on-premise hacia arquitecturas Cloud Native:
-
-- [ ] **AWS Secure VPC:** Despliegue de red segmentada con Terraform (VPC, Subnets, IGW/NATGW).
-- [ ] **K8s Cluster Lab:** Despliegue de clúster Kubernetes y securización de nodos.
-
----
-
 ### 📊 GitHub Stats
 
 <p align="left">
@@ -77,7 +81,7 @@ Actualmente migrando mi base de conocimiento on-premise hacia arquitecturas Clou
 ---
 
 <div align="center">
-  <a href="mailto:eddygalamba@hotmail.com">
+  <a href="mailto:eh.galamba94@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
